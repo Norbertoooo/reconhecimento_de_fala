@@ -19,6 +19,8 @@ Comandos para serem executados no terminal dentro do ambiente virtual
 
     pip install SpeechRecognition
     
+    sudo apt-get install portaudio19-dev python-pyaudio
+
     pip install pyaudio
     
     python main.py
