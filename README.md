@@ -17,6 +17,8 @@ Comandos para serem executados no terminal dentro do ambiente virtual
 Comandos para serem executados no terminal dentro do ambiente virtual
 
 
+    pithon3 -m venv .venv
+
     pip install SpeechRecognition
     
     sudo apt-get install portaudio19-dev python-pyaudio
